@@ -22,8 +22,8 @@ function Projects() {
         </p>
         <p style={{ color: "purple"}}>
           <h2 className="project-heading">
-          -Working on updating this page->
-          </h2>h2>
+          -Working on updating this page-
+          </h2>
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">

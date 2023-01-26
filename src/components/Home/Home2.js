@@ -19,6 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
+              By day, I'm a Ph.D. student, and by night, I'm also a Ph.D. student. Cause, you know. Academy. 
+              <br />
+              But I do enjoy stealing some time to myself and do the things I (also) enjoy and that are not related to my research.
+              My field is experimental astroparticle physics. Sounds cool? Well, while I spend majority of the time in front of a computer, 
+              every now and then there are nice hardware works that I get involved, if not, twice a year I go to Gran Sasso to baby-sit our precious experiment.
               I have been doing science for many years now. For the most part,
               I sit in front of a computer and analyze or simulate stuff.️
               <br />
